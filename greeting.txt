@@ -4,3 +4,4 @@ Calculating Factorial of a number, Calculating the fibonacchi series using equat
 
 cherry pick
 Calculation of prime number
+edits for stashing
