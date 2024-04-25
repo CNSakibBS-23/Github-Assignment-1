@@ -3,3 +3,5 @@ Hello World
 Calculating Factorial of a number, Calculating the fibonacchi series using equation.Now we can proceed to the calcualtion.
 
 cherry pick
+Calculation of prime number
+cherry pick
