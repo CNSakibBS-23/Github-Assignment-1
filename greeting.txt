@@ -1,3 +1,3 @@
 Hello World
 
-Calculating Factorial of a number, Calculating the fibonacchi series
+Calculating Factorial of a number, Calculating the fibonacchi series using equation.
